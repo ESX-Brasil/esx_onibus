@@ -8,8 +8,8 @@ A rota panorâmica começa no Dashound Bus Center, em Los Santos.
 
 ### Usando o Git
 ```
-cd resources https://github.com/ESX-Brasil/esx_onibus.git
-git clone  [esx]/esx_onibus
+cd resources
+git clone https://github.com/ESX-Brasil/esx_onibus.git [esx]/esx_onibus
 ```
 
 ### Manualmente
