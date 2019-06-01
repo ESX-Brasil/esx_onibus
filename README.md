@@ -23,6 +23,11 @@ git clone https://github.com/ESX-Brasil/esx_onibus.git [esx]/esx_onibus
 start esx_onibus
 ```
 
+## Creditos
+
+[Propstg](https://github.com/propstg) - Desenvolvedor
+[RenildoMarcio](https://github.com/psycodeliccircus) - Tradução e implementações de funções
+
 ## Suporte para script de combustível
 Se você usar FrFuel ou LegacyFuel, defina a opção apropriada em config.lua como true para definir o nível de combustível do barramento como 100% no spawn.
 - FrFuel: Config.UseFrFuel
